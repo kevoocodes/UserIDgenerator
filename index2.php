@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="Kelvin Aron Msindai" content="Fullstack Developer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
     <style>
@@ -70,3 +71,7 @@
 
 </body>
 </html>
+
+<!-- 
+    Developed by: kevoocodes
+ -->
