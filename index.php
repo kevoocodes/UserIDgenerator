@@ -41,16 +41,16 @@ if(isset($_POST['submit'])){
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="container" style="box-shadow: 10px 10px 10px 10px #e6e6e6;">
         <form action="" method="POST">
             <h1>Enter Name</h1>
             <p>**This is web generator that generate user IDENTITY</p>
             <div class="abc">
                 <label for="name" id="label">Name</label> <br>
-                <input type="text" name="name" placeholder="Please Enter Name" required>
+                <input  type="text" name="name" placeholder="Please Enter Name" required>
 
-                <input type="submit" value="submit" name="submit">
-                <p class="link" style="padding-bottom: 100px;"><a href="index2.php">Click to view USER</a></p>
+                <input style="width: 92%;"  type="submit" value="submit" name="submit">
+                <p class="link" style="padding-bottom: 100px;"><a href="view.php">Click to view USER</a></p>
             </div>
 
            

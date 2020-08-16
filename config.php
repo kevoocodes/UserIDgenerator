@@ -4,3 +4,9 @@ if(!$db) {
     echo "Not connected";
 }
 ?>
+
+
+
+<!-- 
+    Developed by: @kevoocodes
+ -->

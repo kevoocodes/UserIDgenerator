@@ -14,7 +14,7 @@ html,body{
     margin: 100px 20% 0 20%;
     background-color: #fff;
     border-radius: 4px;
-
+    box-shadow: 2px 10px  #000000;
 
 }
 
@@ -58,6 +58,7 @@ P{
     background-color: #6cf;
     color: #fff;
     border: none;
+    /* width: 100%; */
     cursor: pointer;
     /* margin-bottom: 100px; */
 }
@@ -85,4 +86,10 @@ a:hover{
 .link {
     margin-bottom: 100px;
 }
+
+
+
+/* 
+    Developed by: @kevoocodes
+*/
 
